@@ -3,6 +3,19 @@
     font-family: 'Varela Round', sans-serif;
 }
 
+.fontdefault {
+    font-family: 'Varela Round', sans-serif;
+}
+
 .color-two-sharerp {
     color: red;
+}
+
+.logo img {
+    width: 150px;
+}
+
+.customDivSlideLogos {
+    background-color: rgba(0, 0, 0, 0.2);
+    padding-left: 20px;
 }
