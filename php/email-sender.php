@@ -3,7 +3,7 @@ session_cache_limiter('nocache');
 header('Expires: ' . gmdate('r', 0));
 header('Content-type: application/json');
 
-$Recipient = 'contato@sharerp.com.br'; // <-- Set your email here
+$Recipient = 'comercial@gdrives.com.br'; // <-- Set your email here
 
 $subject = $_POST['subject'];
 
